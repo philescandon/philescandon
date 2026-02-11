@@ -1,8 +1,7 @@
 ### Hi there 👋
 - 🔭 I’m currently working on an analysis project for a camera system...
-- 🌱 I’m currently using Claude Code to implement Quarto and bookdown for reports using the R Language...
-- 👯 I’m looking to collaborate on image science projects and problems.
-- 🤔 I’m looking for help with Claude Code mcp tools and agents 
+- 🌱 I’m currently using Claude Code to document and implement Quarto and bookdown for reports using the R Language...
+- 👯 I’m looking to collaborate on image science projects and problems. 
 - 💬 Ask me about AI in the workplace!
 - 📫 How to reach me: Phillip.Escandon-at-gmail.com, philescandon on Twitter
 - 😄 Pronouns: He, it, that
