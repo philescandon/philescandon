@@ -4,7 +4,6 @@
 - 👯 I’m looking to collaborate on image science projects and problems. 
 - 💬 Ask me about AI in the workplace!
 - 📫 How to reach me: Phillip.Escandon-at-gmail.com, philescandon on Twitter
-- 😄 Pronouns: He, it, that
 - ⚡ Fun fact: Our eyes are more sensitive to green.
 <!--
 **philescandon/philescandon** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
